@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /include/
-Disallow: /scripts/
+Disallow: /AtaraxiS/
+Disallow: /css/
 Disallow: /images/
+Disallow: /include/
