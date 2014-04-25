@@ -67,7 +67,7 @@ if(!isset($formSubmit) || $hasError){
 	</div>
 	<div class="form-group">
 		<label>E-Mail:</label>
-		<input type="text" class="form-control" name="Email" placeholder="name@provider.ch" value="<?PHP echo $email; ?>">
+		<input type="email" class="form-control" name="Email" placeholder="name@provider.ch" value="<?PHP echo $email; ?>">
 	</div>
 	<div class="form-group">
 		<label>Mitteilung:</label>
