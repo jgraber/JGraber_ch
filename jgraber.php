@@ -59,11 +59,18 @@ include("./include/header.inc.php");
 <div class="row">
 <div class="col-md-12">
 <h2>Zertifizierungen</h2>
-<p class="zert">
-<a name="zertifizierung"><img src="images/MCPD_JGraber.png" alt="MCPD" width="272" height="80"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/MCTS_JGraber.png" alt="MCTS" width="431" height="80">
-</p>
+<div class="col-md-3">
+<img src="images/MCSD_2013_JGraber.png" alt="MCSD" width="160" height="122">
+</div>
+<div class="col-md-3">
+<img src="images/MCPD_2013_JGraber.png" alt="MCPD" width="160" height="149">
+</div>
+<div class="col-md-3">
+<img src="images/MS_2013_JGraber.png" alt="MS" width="160" height="131">
+</div>
+<div class="col-md-3">
+<img src="images/MCTS_2013_JGraber.png" alt="MCTS" width="160" height="276">
+</div>
 </div>
 </div>
 
