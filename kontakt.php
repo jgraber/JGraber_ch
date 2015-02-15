@@ -63,15 +63,15 @@ if(!isset($formSubmit) || $hasError){
 <form action="<?php echo $_SERVER['SCRIPT_NAME']?>" method="post" class="well">
 	<div class="form-group">
 		<label>Name:</label>
-		<input type="text" class="form-control" name="Name" placeholder="Vorname und Name" value="<?PHP echo $name; ?>">
+		<input type="text" class="form-control" name="Name" placeholder="Vorname und Name" value="<?PHP echo $name; ?>" maxlength="100">
 	</div>
 	<div class="form-group">
 		<label>E-Mail:</label>
-		<input type="email" class="form-control" name="Email" placeholder="name@provider.ch" value="<?PHP echo $email; ?>">
+		<input type="email" class="form-control" name="Email" placeholder="name@provider.ch" value="<?PHP echo $email; ?>" maxlength="100">
 	</div>
 	<div class="form-group">
 		<label>Mitteilung:</label>
-		<textarea name="Mitteilung" class="form-control" cols="45" rows="10" placeholder="Ihre Mitteilung"><?PHP echo $mitteilung; ?></textarea>
+		<textarea name="Mitteilung" class="form-control" cols="45" rows="10" placeholder="Ihre Mitteilung" maxlength="5000"><?PHP echo $mitteilung; ?></textarea>
 	</div>
 	<div class="form-actions">
 		<button type="submit" name="formSubmit" class="btn btn-success btn-primary">Senden</button>
