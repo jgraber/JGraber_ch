@@ -22,12 +22,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/jumbotron-narrow.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 	
 	<!-- Google Analytics -->
 	<script type="text/javascript">
@@ -52,5 +46,5 @@
           <li <?PHP if($page_active == "jgraber") echo 'class="active"'; ?>><a href="jgraber.php">&Uuml;ber mich</a></li>
           <li <?PHP if($page_active == "kontakt") echo 'class="active"'; ?>><a href="kontakt.php">Kontakt</a></li>
         </ul>
-        <h3 class="text-muted">JGraber.ch</h3>
+        <h3 class="text-muted"><a href="index.php">JGraber.ch</a></h3>
       </div>

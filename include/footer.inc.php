@@ -1,5 +1,5 @@
 ﻿	  <div class="footer">
-        <p>&copy; 2014 Johnny Graber</p>
+        <p>&copy; 2015 Johnny Graber</p>
       </div>
 
     </div> <!-- /container -->
