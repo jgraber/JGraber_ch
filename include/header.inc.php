@@ -44,7 +44,6 @@
         <ul class="nav nav-pills pull-right">
           <li <?PHP if($page_active == "index") echo 'class="active"'; ?>><a href="index.php">Start</a></li>
           <li <?PHP if($page_active == "jgraber") echo 'class="active"'; ?>><a href="jgraber.php">&Uuml;ber mich</a></li>
-          <li <?PHP if($page_active == "kontakt") echo 'class="active"'; ?>><a href="kontakt.php">Kontakt</a></li>
         </ul>
         <h3 class="text-muted"><a href="index.php">JGraber.ch</a></h3>
       </div>
