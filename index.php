@@ -1,4 +1,4 @@
-﻿<?PHP
+<?PHP
 // Setzen von Titel und den Infos f&uuml;r den Seitenkopf
 $page_browser_title = "Start";
 $page_meta_desc = "Die Homepage mit allen Informationen &uuml;ber Johnny Graber.";

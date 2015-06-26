@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 <!--
 
@@ -13,7 +13,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Johnny Graber">
-    <meta http-equiv="language" content="deutsch, de">
     <meta name="description" content="<?PHP echo $page_meta_desc; ?>">
     <meta name="copyright" content=" (c) Johnny Graber">
     <link rel="shortcut icon" href="./favicon.ico">
