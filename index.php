@@ -12,7 +12,7 @@ include("./include/header.inc.php");
 
 	<div class="jumbotron">
         <h1>Willkommen </h1>
-        <p >Hier finden Sie eine &Uuml;bersicht zu all den verschiedenen Aktivit&auml;ten mit denen ich mich derzeit besch&auml;ftige. Sie k&ouml;nnen mich per <nobr><a href="mailto:jg@jgraber.ch">E-Mail</a></nobr>, <a href="https://twitter.com/j_graber">Twitter</a> oder &uuml;ber das <a href="kontakt.php">Kontaktformular</a> erreichen.</p>
+        <p >Hier finden Sie eine &Uuml;bersicht zu all den verschiedenen Aktivit&auml;ten mit denen ich mich derzeit besch&auml;ftige. Sie k&ouml;nnen mich per <nobr><a href="mailto:jg@jgraber.ch">E-Mail</a></nobr> oder &uuml;ber <a href="https://twitter.com/j_graber">Twitter</a> erreichen.</p>
     </div>
 
     <div class="row marketing">
