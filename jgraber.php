@@ -23,7 +23,7 @@ include("./include/header.inc.php");
 </TABLE>
 </div>
 <div class="col-md-3">
-	<img src="images/jgraber.jpg">
+	<img alt="Johnny Graber" src="images/jgraber.jpg">
 </div>
 </div>
 
