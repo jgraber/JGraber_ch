@@ -75,11 +75,11 @@
                 <p>This is the home page of Johnny Graber. Here you can find an overview on all the things I’m currently doing. You can reach me on various ways:</p>
                 <p>
 					<ul class="list-inline">
-                            <li><a href="#"><i class="fa fa-2x fa-envelope"></i></a>
+                            <li><a href="mailto:jg@jgraber.ch"><i class="fa fa-2x fa-envelope"></i></a>
                             </li>
-                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            <li><a href="https://twitter.com/j_graber"><i class="fa fa-2x fa-twitter-square"></i></a>
                             </li>
-                            <li><a href="#"><i class="fa fa-2x fa-xing-square"></i></a>
+                            <li><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fa fa-2x fa-xing-square"></i></a>
                             </li>
                             <li><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
                             </li>
@@ -100,11 +100,11 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><a href="#"><i class="fa fa-2x fa-picture-o"></i></a> &nbsp; Photography</h4>
+                        <h4><i class="fa fa-2x fa-picture-o"></i> &nbsp; Photography</h4>
                     </div>
                     <div class="panel-body">
                         <p>I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
-                        <a href="#" class="btn btn-success">More on Flickr</a>
+                        <a href="http://www.flickr.com/photos/johnny_graber" class="btn btn-success">More on Flickr</a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
-                        <a href="#" class="btn btn-success"> More on GitHub</a>
+                        <a href="http://github.com/jgraber" class="btn btn-success"> More on GitHub</a>
                     </div>
                 </div>
             </div>
@@ -126,7 +126,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>To improve my English I blog about technology and software development at ImproveAndRepeat.com.</p>
-                        <a href="#" class="btn btn-success">More on Improve & Repeat</a>
+                        <a href="http://ImproveAndRepeat.com" class="btn btn-success">More on Improve & Repeat</a>
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
-                        <a href="#" class="btn btn-success">More on Goodreads</a>
+                        <a href="http://www.goodreads.com/review/list/26287713?shelf=read" class="btn btn-success">More on Goodreads</a>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
-                        <a href="#" class="btn btn-success">More on SpeakerDeck</a>
+                        <a href="http://speakerdeck.com/jgraber" class="btn btn-success">More on SpeakerDeck</a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
-                        <a href="#" class="btn btn-success">More on GraberJ</a>
+                        <a href="http://GraberJ.wordpress.com" class="btn btn-success">More on GraberJ</a>
                     </div>
                 </div>
             </div>
