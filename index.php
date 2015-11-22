@@ -140,7 +140,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
-                        <a href="http://www.goodreads.com/review/list/26287713?shelf=read" class="btn btn-success">More on Goodreads</a>
+                        <a href="https://www.goodreads.com/user/show/26287713-johnny-graber" class="btn btn-success">More on Goodreads</a>
                     </div>
                 </div>
             </div>
