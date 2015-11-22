@@ -1,50 +1,191 @@
-﻿<?PHP
-// Setzen von Titel und den Infos f&uuml;r den Seitenkopf
-$page_browser_title = "Start";
-$page_meta_desc = "Die Homepage mit allen Informationen &uuml;ber Johnny Graber.";
-$page_active = "index";
+<!DOCTYPE html>
+<html lang="en">
+<!--
 
-// Einbinden der Header.inc
-include("./include/header.inc.php");
+*******************************************************************
+  (c):     2000-2015 J. Graber  -   http://www.jgraber.ch         
+  Email:   webmaster (at) jgraber.ch                              
+*******************************************************************
 
-// Inhalt der eigentlichen Seite
-?>
+-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Johnny Graber">
+    <meta name="description" content="All about Johnny Graber">
+    <meta name="copyright" content=" (c) Johnny Graber">
+    <link rel="shortcut icon" href="./favicon.ico">
+    <title>JGraber.ch - Home</title>
 
-	<div class="jumbotron">
-        <h1>Willkommen </h1>
-        <p >Hier finden Sie eine &Uuml;bersicht zu all den verschiedenen Aktivit&auml;ten mit denen ich mich derzeit besch&auml;ftige. Sie k&ouml;nnen mich per <nobr><a href="mailto:jg@jgraber.ch">E-Mail</a></nobr>, <a href="https://twitter.com/j_graber">Twitter</a> oder &uuml;ber das <a href="kontakt.php">Kontaktformular</a> erreichen.</p>
-    </div>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <div class="row marketing">
-        <div class="col-md-4">
-          <h4>Programmieren</h4>
-          <p>In meiner Freizeit programmiere ich gerne mit Ruby und Rails kleine Helfer und Beschleuniger. Den Code gibt es auf <a href="http://github.com/jgraber">GitHub</a>.</p>
-		</div>
-		<div class="col-md-4">
-          <h4>Blog (Deutsch)</h4>
-          <p>Seit September 2009 blogge ich &uuml;ber alles was mich im Bereich IT, B&uuml;cher und Reisen interessiert auf <a href="http://GraberJ.wordpress.com">GraberJ.wordpress.com</a>.</p>
-		</div>
-		<div class="col-md-4">
-          <h4>Pr&auml;sentieren</h4>
-          <p>Wissen vermehrt sich am schnellsten wenn man es teilt. Die Folien meiner Pr&auml;sentationen liegen auf <a href="http://speakerdeck.com/jgraber">Speaker Deck</a>.</p>
+    <!-- Custom CSS -->
+    <link href="css/small-business.css" rel="stylesheet">
+	<style type="text/css">
+		.cent{    
+			font-size: 24px;
+		    /*line-height: 1.5em;*/
+		}
+		h1 {
+		    margin-top: 5px;
+		    font-family: 'Open Sans Condensed', sans-serif;
+			font-stretch: normal;
+			font-style: normal;
+			font-variant: normal;
+			font-weight: bold;
+			color: #0058c4;
+		}
+
+		body {
+		padding-top: 50px; */
+		}
+
+		a, .fa {
+		    color: #0058c4;
+		}
+
+		p {
+			/*font-family: arial, sans-serif;*/
+			font-size: 14px;
+		}
+	</style>
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <!-- Page Content -->
+    <div class="container">
+        <!-- Heading Row -->
+        <div class="row">
+            <div class="col-md-8">
+                <img class="img-responsive img-rounded" src="background.jpg" alt="Landscape at my last travel to the US">
+            </div>
+            <!-- /.col-md-8 -->
+            <div class="col-md-4">
+                <h1>Welcome</h1>
+                <p>This is the home page of Johnny Graber. Here you can find an overview on all the things I’m currently doing. You can reach me on various ways:</p>
+                <p>
+					<ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-envelope"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-xing-square"></i></a>
+                            </li>
+                            <li><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
+                            </li>
+                        </ul>
+                </p>
+                <p>For paper-based communication:<br>
+Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
+                </p>
+            </div>
+            <!-- /.col-md-4 -->
         </div>
-	</div>	
-	<div class="row marketing">
-        <div class="col-md-4">
-          <h4>Lesen</h4>
-          <p>Ich lese gerne und viel. Neben Sach- und Fachb&uuml;chern darf es zur Abwechslung auch einmal ein Krimi sein. Meine aktuelle Leseliste befindet sich bei <a href="http://www.goodreads.com/review/list/26287713?shelf=read">Goodreads</a>.</p>
-		</div>
-		<div class="col-md-4">
-          <h4>Blog (Englisch)</h4>
-          <p>Um mein Englisch zu verbessern und ausgew&auml;hlte Themen eingehender zu besprechen blogge ich seit Ende 2013 zus&auml;tzlich auf <a href="http://ImproveAndRepeat.com">ImproveAndRepeat.com</a>.</p>
-		</div>
-		<div class="col-md-4">
-          <h4>Fotografieren</h4>
-          <p>Ich reise gerne in der Welt herum und mache dabei viele Fotos. Eine immer gr&ouml;sser werdende Auswahl von Landschaften gibt es auf <a href="http://www.flickr.com/photos/johnny_graber">Flickr</a>.</p>
-        </div>
-    </div>
+        <!-- / Heading Row -->
 
-<?PHP
-// Einbinden der Footer.inc
-include("./include/footer.inc.php");
-?>
+        <hr>
+
+        <!-- Content Row -->
+        <div class="row">
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><a href="#"><i class="fa fa-2x fa-picture-o"></i></a> &nbsp; Photography</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
+                        <a href="#" class="btn btn-success">More on Flickr</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-2x fa-github-square"></i> Code</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
+                        <a href="#" class="btn btn-success"> More on GitHub</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>To improve my English I blog about technology and software development at ImproveAndRepeat.com.</p>
+                        <a href="#" class="btn btn-success">More on Improve & Repeat</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-2x fa-book"></i> Reading</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
+                        <a href="#" class="btn btn-success">More on Goodreads</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-2x fa-caret-square-o-right"></i> Presentations</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
+                        <a href="#" class="btn btn-success">More on SpeakerDeck</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging (German)</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
+                        <a href="#" class="btn btn-success">More on GraberJ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; 2015 Johnny Graber</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
