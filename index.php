@@ -126,7 +126,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="panel-body">
                         <p>To improve my English I blog about technology and software development at ImproveAndRepeat.com.</p>
-                        <a href="http://ImproveAndRepeat.com" class="btn btn-success">More on Improve & Repeat</a>
+                        <a href="https://ImproveAndRepeat.com" class="btn btn-success">More on Improve & Repeat</a>
                     </div>
                 </div>
             </div>
