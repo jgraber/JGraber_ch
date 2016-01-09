@@ -172,7 +172,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2015 Johnny Graber</p>
+                    <p>Copyright &copy; 2016 Johnny Graber</p>
                 </div>
             </div>
         </footer>
