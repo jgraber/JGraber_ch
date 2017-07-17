@@ -3,7 +3,7 @@
 <!--
 
 *******************************************************************
-  (c):     2000-2015 J. Graber  -   http://www.jgraber.ch         
+  (c):     2000-2017 J. Graber  -   http://www.jgraber.ch         
   Email:   webmaster (at) jgraber.ch                              
 *******************************************************************
 
@@ -23,42 +23,12 @@
 
     <!-- Custom CSS -->
     <link href="css/small-business.css" rel="stylesheet">
-	<style type="text/css">
-		.cent{    
-			font-size: 24px;
-		    /*line-height: 1.5em;*/
-		}
-		h1 {
-		    margin-top: 5px;
-		    font-family: 'Open Sans Condensed', sans-serif;
-			font-stretch: normal;
-			font-style: normal;
-			font-variant: normal;
-			font-weight: bold;
-			color: #0058c4;
-		}
-
-		body {
-		padding-top: 50px; */
-		}
-
-		a, .fa {
-		    color: #0058c4;
-		}
-
-		p {
-			/*font-family: arial, sans-serif;*/
-			font-size: 14px;
-		}
-	</style>
+	
+    <!-- eigene Anpassungen -->
+    <link href="css/anpassungen_jg.css" rel="stylesheet">
+    
     <!-- Custom Fonts -->
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body>
@@ -172,7 +142,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2015 Johnny Graber</p>
+                    <p>Copyright &copy; 2017 Johnny Graber</p>
                 </div>
             </div>
         </footer>

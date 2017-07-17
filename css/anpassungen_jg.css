@@ -1,0 +1,23 @@
+.cent{    
+	font-size: 24px;
+    /*line-height: 1.5em;*/
+}
+h1 {
+    margin-top: 5px;
+    font-family: 'Open Sans Condensed', sans-serif;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	color: #0058c4;
+}
+body {
+padding-top: 50px; */
+}
+a, .fa {
+    color: #0058c4;
+}
+p {
+	/*font-family: arial, sans-serif;*/
+	font-size: 14px;
+}
