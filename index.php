@@ -46,7 +46,7 @@
         <!-- Heading Row -->
         <div class="row">
             <div class="col-md-8">
-                <img class="img-responsive img-rounded" src="images/background.jpg" alt="Landscape at my last travel to the US">
+                <img class="img-fluid rounded" src="images/background.jpg" alt="Landscape at my last travel to the US">
             </div>
             <!-- /.col-md-8 -->
             <div class="col-md-4">
@@ -54,13 +54,13 @@
                 <p>This is the home page of Johnny Graber. Here you can find an overview on all the things I’m currently doing. You can reach me on various ways:</p>
                 <p>
 					<ul class="list-inline">
-                            <li><a href="mailto:jg@jgraber.ch"><i class="fa fa-2x fa-envelope"></i></a>
+                            <li class="list-inline-item"><a href="mailto:jg@jgraber.ch"><i class="fa fa-2x fa-envelope"></i></a>
                             </li>
-                            <li><a href="https://twitter.com/j_graber"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            <li class="list-inline-item"><a href="https://twitter.com/j_graber"><i class="fa fa-2x fa-twitter-square"></i></a>
                             </li>
-                            <li><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fa fa-2x fa-xing-square"></i></a>
+                            <li class="list-inline-item"><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fa fa-2x fa-xing-square"></i></a>
                             </li>
-                            <li><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
+                            <li class="list-inline-item"><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
                             </li>
                         </ul>
                 </p>
@@ -77,34 +77,34 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <!-- Content Row -->
         <div class="row">
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-picture-o"></i> &nbsp; Photography</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
+                    <div class="card-body">
+                        <p class="card-text">I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
                         <a href="http://www.flickr.com/photos/johnny_graber" class="btn btn-success">More on Flickr</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-github-square"></i> Code</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
+                    <div class="card-body">
+                        <p class="card-text">Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
                         <a href="http://github.com/jgraber" class="btn btn-success"> More on GitHub</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>To improve my English I blog about technology and software development at ImproveAndRepeat.com.</p>
+                    <div class="card-body">
+                        <p class="card-text">To improve my English I blog about software development at ImproveAndRepeat.com.</p>
                         <a href="https://ImproveAndRepeat.com" class="btn btn-success">More on Improve & Repeat</a>
                     </div>
                 </div>
@@ -113,34 +113,34 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
 
         <div class="row">
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-book"></i> Reading</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
+                    <div class="card-body">
+                        <p class="card-text">Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
                         <a href="https://www.goodreads.com/user/show/26287713-johnny-graber" class="btn btn-success">More on Goodreads</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-caret-square-o-right"></i> Presentations</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
+                    <div class="card-body">
+                        <p class="card-text">The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
                         <a href="http://speakerdeck.com/jgraber" class="btn btn-success">More on SpeakerDeck</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="card">
+                    <div class="card-header">
                         <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging (German)</h4>
                     </div>
-                    <div class="panel-body">
-                        <p>My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
+                    <div class="card-body">
+                        <p class="card-text">My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
                         <a href="http://GraberJ.wordpress.com" class="btn btn-success">More on GraberJ</a>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2017 Johnny Graber</p>
+                    <p>Copyright &copy; 2018 Johnny Graber</p>
                 </div>
             </div>
         </footer>
