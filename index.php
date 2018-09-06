@@ -3,7 +3,7 @@
 <!--
 
 *******************************************************************
-  (c):     2000-2017 J. Graber  -   http://www.jgraber.ch         
+  (c):     2000-2018 J. Graber  -   https://www.jgraber.ch         
   Email:   webmaster (at) jgraber.ch                              
 *******************************************************************
 
@@ -16,7 +16,7 @@
       function gtag(){dataLayer.push(arguments)};
       gtag('js', new Date());
 
-      gtag('config', 'UA-28754106-1');
+      gtag('config', 'UA-28754106-1', { 'anonymize_ip': true });
     </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -83,7 +83,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="card-body">
                         <p class="card-text">I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
-                        <a href="http://www.flickr.com/photos/johnny_graber" class="btn btn-success">More on Flickr</a>
+                        <a href="https://www.flickr.com/photos/johnny_graber" class="btn btn-success">More on Flickr</a>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="card-body">
                         <p class="card-text">Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
-                        <a href="http://github.com/jgraber" class="btn btn-success"> More on GitHub</a>
+                        <a href="https://github.com/jgraber" class="btn btn-success"> More on GitHub</a>
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="card-body">
                         <p class="card-text">The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
-                        <a href="http://speakerdeck.com/jgraber" class="btn btn-success">More on SpeakerDeck</a>
+                        <a href="https://speakerdeck.com/jgraber" class="btn btn-success">More on SpeakerDeck</a>
                     </div>
                 </div>
             </div>
@@ -141,7 +141,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
                     </div>
                     <div class="card-body">
                         <p class="card-text">My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
-                        <a href="http://GraberJ.wordpress.com" class="btn btn-success">More on GraberJ</a>
+                        <a href="https://GraberJ.wordpress.com" class="btn btn-success">More on GraberJ</a>
                     </div>
                 </div>
             </div>
