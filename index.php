@@ -54,11 +54,11 @@
                 <p>This is the home page of Johnny Graber. Here you can find an overview on all the things I’m currently doing. You can reach me on various ways:</p>
                 <p>
 					<ul class="list-inline">
-                            <li class="list-inline-item"><a href="mailto:jg@jgraber.ch"><i class="fa fa-2x fa-envelope"></i></a>
+                            <li class="list-inline-item"><a href="mailto:jg@jgraber.ch"><i class="fas fa-2x fa-envelope-square"></i></a>
                             </li>
-                            <li class="list-inline-item"><a href="https://twitter.com/j_graber"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            <li class="list-inline-item"><a href="https://twitter.com/j_graber"><i class="fab fa-2x fa-twitter-square"></i></a>
                             </li>
-                            <li class="list-inline-item"><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fa fa-2x fa-xing-square"></i></a>
+                            <li class="list-inline-item"><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fab fa-2x fa-xing-square"></i></a>
                             </li>
                             <li class="list-inline-item"><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
                             </li>
@@ -79,7 +79,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-picture-o"></i> &nbsp; Photography</h4>
+                        <h4><i class="far fa-2x fa-images"></i> &nbsp; Photography</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">I love to travel and to take pictures while on vacation. My best images are on Flickr.</p>
@@ -90,7 +90,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-github-square"></i> Code</h4>
+                        <h4><i class="fab fa-2x fa-github-square"></i> Code</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">Writing code is not just a job for me. You can find my Open Source code at GitHub.</p>
@@ -101,7 +101,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging</h4>
+                        <h4><i class="fas fa-2x fa-pen-square"></i></i> Blogging</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">To improve my English I blog about software development at ImproveAndRepeat.com.</p>
@@ -115,7 +115,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-book"></i> Reading</h4>
+                        <h4><i class="fas fa-2x fa-book"></i> Reading</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">Reading is one of my hobbies and I read a lot. My current reading list is on Goodreads.com.</p>
@@ -126,7 +126,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-caret-square-o-right"></i> Presentations</h4>
+                        <h4></i><i class="fas fa-2x fa-chalkboard-teacher"></i> Presentations</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">The slides of my presentations at user groups and conferences are on SpeakerDeck.</p>
@@ -137,7 +137,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4><i class="fa fa-2x fa-pencil-square"></i> Blogging (German)</h4>
+                        <h4><i class="fas fa-2x fa-pen-square"></i> Blogging (German)</h4>
                     </div>
                     <div class="card-body">
                         <p class="card-text">My initial blog is in German and started 2009. You can find it on GraberJ.wordpress.com.</p>
@@ -151,7 +151,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2018 Johnny Graber</p>
+                    <p>Copyright &copy; 2020 Johnny Graber</p>
                 </div>
             </div>
         </footer>

@@ -14,7 +14,7 @@ h1 {
 body {
 padding-top: 50px; */
 }
-a, .fa {
+a, .fa, .fas, .fab, .far {
     color: #0058c4;
 }
 p {
