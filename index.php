@@ -3,7 +3,7 @@
 <!--
 
 *******************************************************************
-  (c):     2000-2018 J. Graber  -   https://www.jgraber.ch         
+  (c):     2000-2020 J. Graber  -   https://www.jgraber.ch         
   Email:   webmaster (at) jgraber.ch                              
 *******************************************************************
 
@@ -54,11 +54,11 @@
                 <p>This is the home page of Johnny Graber. Here you can find an overview on all the things I’m currently doing. You can reach me on various ways:</p>
                 <p>
 					<ul class="list-inline">
-                            <li class="list-inline-item"><a href="mailto:jg@jgraber.ch"><i class="fas fa-2x fa-envelope-square"></i></a>
+                            <li class="list-inline-item"><a href="mailto:jg@jgraber.ch"><span class="nonvisible">Email: jg@jgraber.ch</span><i class="fas fa-2x fa-envelope-square"></i></a>
                             </li>
-                            <li class="list-inline-item"><a href="https://twitter.com/j_graber"><i class="fab fa-2x fa-twitter-square"></i></a>
+                            <li class="list-inline-item"><a href="https://twitter.com/j_graber"><span class="nonvisible">Twitter: @j_graber</span><i class="fab fa-2x fa-twitter-square"></i></a>
                             </li>
-                            <li class="list-inline-item"><a href="https://www.xing.com/profile/Johnny_Graber"><i class="fab fa-2x fa-xing-square"></i></a>
+                            <li class="list-inline-item"><a href="https://www.xing.com/profile/Johnny_Graber"><span class="nonvisible">Xing: Johnny Graber</span><i class="fab fa-2x fa-xing-square"></i></a>
                             </li>
                             <li class="list-inline-item"><a href="tel:+41796191486"><i class="fa fa-2x fa-phone-square"></i> &nbsp;+41 79 619 14 86</a>
                             </li>

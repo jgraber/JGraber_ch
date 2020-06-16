@@ -24,3 +24,15 @@ p {
 .card {
 	margin-bottom: 20px;
 }
+
+.btn-success {
+	background-color: #cfe8d5c9;
+	color: black;
+	font-weight: 600;
+}
+
+.nonvisible {
+	text-indent: -10000px;
+	position:absolute;
+	color: coral;
+}
