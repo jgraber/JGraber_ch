@@ -3,7 +3,7 @@
 <!--
 
 *******************************************************************
-  (c):     2000-2020 J. Graber  -   https://www.jgraber.ch         
+  (c):     2000-2021 J. Graber  -   https://www.jgraber.ch         
   Email:   webmaster (at) jgraber.ch                              
 *******************************************************************
 
@@ -151,7 +151,7 @@ Johnny Graber<br/>Meisenweg 1<br/>2563 Ipsach<br/>Switzerland<br/>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2020 Johnny Graber</p>
+                    <p>Copyright &copy; 2021 Johnny Graber</p>
                 </div>
             </div>
         </footer>
